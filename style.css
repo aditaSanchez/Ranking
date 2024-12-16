@@ -1,0 +1,97 @@
+.container {
+    background-color: rgba(110, 165, 237, 0.686);
+    text-align: center;
+    padding: 15px;
+}
+
+.foto {
+    padding: 10px;
+    text-decoration: none;
+    line-height: 70px;
+    height: 0;
+    display: block;
+}
+
+.principal img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+.principal .forma img {
+    width: 40px;
+    height: 40px;
+    border: 0;
+    display: block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.forma {
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+  
+  button {
+    /*display: block;*/
+    padding: 0.5rem 1rem;
+    width: 200px;
+    /*margin: 0 auto;*/
+    /*margin-top: 20px;*/
+    background-color: #2bc202;
+    
+  }
+.cantante { 
+    padding-left: 10px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0 1px 0 black;
+    line-height: 70px;
+
+    border-right: 30px solid transparent;
+    border-bottom: 60px solid green;
+
+    height: 0;
+}
+
+.cancion { 
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0 1px 0 black;
+    line-height: 70px;
+    font-size: 21px;
+
+    border-right: 30px solid transparent;
+    border-bottom: 60px solid red;
+
+    height: 0;
+    display: block; 
+}
+
+.center {
+    height: 100px;
+    text-align: center;
+}
+.titulo{
+    padding: 20px;
+    display: block;
+}
+.principal {
+    margin-top: 20px;
+}
+
+.musica {
+    display: flex;
+    margin-left: 400px;  
+}
+
+h1 {
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    display: inline;
+}
